@@ -1,0 +1,40 @@
+## Infernal Centaur
+*(Medium) (Fiend) *
+
+**Armor Class:** 15
+**Hit Points:** 60 (8d8+24)
+**Speed:** {"walk": 40}
+
+**Initiative:** 12
+**Proficiency Bonus:**
+**Challenge:** 4
+
+**Languages:** Common, Gnomish, Infernal
+
+### Abilities
+ --- 
+- **Cruelty**: If the infernal centaur scores a critical hit with a melee attack, it can make a second attack against the same target as a bonus action. It has advantage on this attack roll.
+
+- **Hell Hound Affinity**: Hell hounds view infernal centaurs as leaders of their packs. A hell hound refuses to attack an infernal centaur unless the centaur attacks it first. If magically coerced, the hell hound has disadvantage on attack rolls against the centaur. The centaur has advantage on Charisma (Persuasion) checks against hell hounds.
+
+- **Pack Tactics**: The centaur has advantage on attack rolls against a creature if at least one of the centaur’s allies is within 5 feet of the creature and the ally isn’t incapacitated.
+
+
+
+| Stats | Modifier | Stat | Save
+| ---- | ---- | ---- | ---- |
+| Strength | 17 | 3 | - |
+| Dexterity | 12 | 1 | - |
+| Constitution | 16 | 3 | - |
+| Intelligence | 11 | 0 | - |
+| Wisdom | 14 | 2 | - |
+| Charisma | 13 | 1 | - |
+
+### Actions
+ --- 
+- **Multiattack**: The infernal centaur makes two dagger attacks.
+
+- **Dagger**: Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+
+- **Fiery Breath (Recharge 5-6)**: The infernal centaur exhales fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 28 (8d6) fire damage on a failed save, or half as much damage on a successful one.
+
