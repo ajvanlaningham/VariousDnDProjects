@@ -9,19 +9,34 @@ namespace MDParser
 {
     internal class Program
     {
-        private static string _MonsterTargetLocation = "";
-        private static string _FileLocation = "";
-        private static string _SmallFileLocation = "";
+        private static string _SaveTargetLocation = "";
 
-      
     static void Main()
         {
             var config = new ConfigurationBuilder().AddUserSecrets<Program>().Build();
-            _MonsterTargetLocation = config["FileLocations:MonsterTargetLocation"];
-            _FileLocation = config["FileLocations:FileLocation"];
+            _SaveTargetLocation = config["FileLocations:SaveTargetLocation"];
+            string genMonsterFileLocation = config["FileLocations:GenMonsterTargetLocation"];
+            string taldorieMonsterTargetLocation = config["FileLocations:TaldorieMonsterTargetLocation"];
+            string tombOfBeasts1TargetLocation = config["FileLocations:TombOfBeasts1TargetLocation"];
+            string tombOfBeasts2TargetLocation = config["FileLocations:TombOfBeasts2TargetLocation"];
+            string tombOfBeasts3TargetLocation = config["FileLocations:TombOfBeasts3TargetLocation"];
 
+            string[] targetLocations = new[]
+            {
+                genMonsterFileLocation,
+                taldorieMonsterTargetLocation,
+                tombOfBeasts1TargetLocation,
+                tombOfBeasts2TargetLocation,
+                tombOfBeasts3TargetLocation
+            };
 
-            List<Monster> monsters = DeserializeMonstersFromFile(_FileLocation);
+            HashSet<Monster> monsters = new HashSet<Monster>();
+
+            foreach (string targetLocation in targetLocations)
+            {
+                HashSet<Monster> tempMonsters = DeserializeMonstersFromFile(targetLocation);
+                monsters.UnionWith(tempMonsters);
+            }
 
             foreach (Monster monster in monsters)
             {
@@ -52,7 +67,7 @@ namespace MDParser
                 string crWithLeadingZeros = crForDirectoryName.PadLeft(2, '0');
 
                 // Create directory name with leading zeros
-                string directory = _MonsterTargetLocation + $"{monster.Fields.Type}" + "/" + $"{crWithLeadingZeros}";
+                string directory = _SaveTargetLocation + $"{monster.Fields.Type}" + "/" + $"{crWithLeadingZeros}";
 
                 // Create filename with CR and leading zeros
                 string filename = $"{monster.Fields.Name}.md";
@@ -91,13 +106,14 @@ namespace MDParser
 
         }
 
-        static List<Monster> DeserializeMonstersFromFile(string fileLocation)
+        static HashSet<Monster> DeserializeMonstersFromFile(string fileLocation)
         {
             try
             {
                 string json = File.ReadAllText(fileLocation);
-                List<Monster> monsters = JsonConvert.DeserializeObject<List<Monster>>(json);
-                return monsters;
+                HashSet<Monster> monsterHashSet = JsonConvert.DeserializeObject<HashSet<Monster>>(json);
+
+                return monsterHashSet;
             }
             catch (Exception ex)
             {
@@ -123,14 +139,14 @@ namespace MDParser
 
 {monster.SpecialAbilitiesMarkdownString}
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | {monster.Strength} | {CalculateModifier(monster.Strength)} | {monster.StrengthSave?.ToString() ?? "-"} |
-| Dexterity | {monster.Dexterity} | {CalculateModifier(monster.Dexterity)} | {monster.DexteritySave?.ToString() ?? "-"} |
-| Constitution | {monster.Constitution} | {CalculateModifier(monster.Constitution)} | {monster.ConstitutionSave?.ToString() ?? "-"} |
-| Intelligence | {monster.Intelligence} | {CalculateModifier(monster.Intelligence)} | {monster.IntelligenceSave?.ToString() ?? "-"} |
-| Wisdom | {monster.Wisdom} | {CalculateModifier(monster.Wisdom)} | {monster.WisdomSave?.ToString() ?? "-"} |
-| Charisma | {monster.Charisma} | {CalculateModifier(monster.Charisma)} | {monster.CharismaSave?.ToString() ?? "-"} |
+| Strength | {monster.Strength} | {CalculateModifier(monster.Strength)} | {monster.StrengthSave?.ToString() ?? CalculateModifier(monster.Strength).ToString()} |
+| Dexterity | {monster.Dexterity} | {CalculateModifier(monster.Dexterity)} | {monster.DexteritySave?.ToString() ?? CalculateModifier(monster.Dexterity).ToString()} |
+| Constitution | {monster.Constitution} | {CalculateModifier(monster.Constitution)} | {monster.ConstitutionSave?.ToString() ?? CalculateModifier(monster.Constitution).ToString()} |
+| Intelligence | {monster.Intelligence} | {CalculateModifier(monster.Intelligence)} | {monster.IntelligenceSave?.ToString() ?? CalculateModifier(monster.Intelligence).ToString()} |
+| Wisdom | {monster.Wisdom} | {CalculateModifier(monster.Wisdom)} | {monster.WisdomSave?.ToString() ?? CalculateModifier(monster.Wisdom).ToString()} |
+| Charisma | {monster.Charisma} | {CalculateModifier(monster.Charisma)} | {monster.CharismaSave?.ToString() ?? CalculateModifier(monster.Charisma).ToString()} |
 
 ";
 

@@ -29,7 +29,7 @@
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 30 | 10 | 19 |
 | Dexterity | 12 | 1 | 10 |
