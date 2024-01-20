@@ -23,14 +23,14 @@ The heggarna can detach itself by spending 5 feet of its movement. It does so af
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 7 | -1 | - |
-| Dexterity | 16 | 3 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 13 | 1 | - |
-| Charisma | 16 | 3 | - |
+| Strength | 7 | -1 | -1 |
+| Dexterity | 16 | 3 | 3 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 13 | 1 | 1 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

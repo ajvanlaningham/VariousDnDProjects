@@ -27,13 +27,13 @@ at will: darkness
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
+| Strength | 18 | 4 | 4 |
 | Dexterity | 13 | 1 | 4 |
 | Constitution | 18 | 4 | 7 |
-| Intelligence | 13 | 1 | - |
-| Wisdom | 14 | 2 | - |
+| Intelligence | 13 | 1 | 1 |
+| Wisdom | 14 | 2 | 2 |
 | Charisma | 15 | 2 | 5 |
 
 ### Actions

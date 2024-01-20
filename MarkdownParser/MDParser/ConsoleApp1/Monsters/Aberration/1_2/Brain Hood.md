@@ -24,14 +24,14 @@ At will: acid splash, chill touch, fire bolt, ray of frost, shocking grasp
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 4 | -3 | - |
+| Strength | 4 | -3 | -3 |
 | Dexterity | 16 | 3 | 5 |
-| Constitution | 14 | 2 | - |
-| Intelligence | 17 | 3 | - |
-| Wisdom | 15 | 2 | - |
-| Charisma | 10 | 0 | - |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 17 | 3 | 3 |
+| Wisdom | 15 | 2 | 2 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

@@ -35,13 +35,13 @@ at will: chill touch, detect magic, light, mage hand, prestidigitation, resistan
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 12 | 1 | - |
-| Dexterity | 17 | 3 | - |
+| Strength | 12 | 1 | 1 |
+| Dexterity | 17 | 3 | 3 |
 | Constitution | 15 | 2 | 5 |
-| Intelligence | 19 | 4 | - |
-| Wisdom | 13 | 1 | - |
+| Intelligence | 19 | 4 | 4 |
+| Wisdom | 13 | 1 | 1 |
 | Charisma | 23 | 6 | 9 |
 
 ### Actions

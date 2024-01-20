@@ -23,11 +23,11 @@ The fragrant one can have no more than six creatures charmed at a time. The frag
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 7 | -1 | - |
-| Dexterity | 12 | 1 | - |
-| Constitution | 10 | 0 | - |
+| Strength | 7 | -1 | -1 |
+| Dexterity | 12 | 1 | 1 |
+| Constitution | 10 | 0 | 0 |
 | Intelligence | 18 | 4 | 6 |
 | Wisdom | 15 | 2 | 4 |
 | Charisma | 18 | 4 | 6 |

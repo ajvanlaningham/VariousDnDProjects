@@ -27,13 +27,13 @@ At will: create or destroy water, detect poison and disease, purify food and dri
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 13 | 1 | - |
+| Strength | 13 | 1 | 1 |
 | Dexterity | 16 | 3 | 6 |
-| Constitution | 18 | 4 | - |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 15 | 2 | - |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 15 | 2 | 2 |
 | Charisma | 18 | 4 | 7 |
 
 ### Actions

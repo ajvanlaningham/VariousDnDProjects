@@ -26,14 +26,14 @@ At will: fear, fire bolt (2d10), telekinesis
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
-| Dexterity | 8 | -1 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 19 | 4 | - |
-| Wisdom | 13 | 1 | - |
-| Charisma | 10 | 0 | - |
+| Strength | 20 | 5 | 5 |
+| Dexterity | 8 | -1 | -1 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 19 | 4 | 4 |
+| Wisdom | 13 | 1 | 1 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

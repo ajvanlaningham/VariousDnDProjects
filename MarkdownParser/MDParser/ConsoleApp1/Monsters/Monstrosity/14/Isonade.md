@@ -29,14 +29,14 @@ at will: animal messenger
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 30 | 10 | 14 |
-| Dexterity | 14 | 2 | - |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 26 | 8 | 12 |
-| Intelligence | 6 | -2 | - |
+| Intelligence | 6 | -2 | -2 |
 | Wisdom | 18 | 4 | 8 |
-| Charisma | 8 | -1 | - |
+| Charisma | 8 | -1 | -1 |
 
 ### Actions
  --- 

@@ -26,14 +26,14 @@ At will: hunter’s mark
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 12 | 1 | - |
+| Strength | 12 | 1 | 1 |
 | Dexterity | 18 | 4 | 7 |
-| Constitution | 16 | 3 | - |
-| Intelligence | 10 | 0 | - |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 10 | 0 | 0 |
 | Wisdom | 18 | 4 | 7 |
-| Charisma | 14 | 2 | - |
+| Charisma | 14 | 2 | 2 |
 
 ### Actions
  --- 

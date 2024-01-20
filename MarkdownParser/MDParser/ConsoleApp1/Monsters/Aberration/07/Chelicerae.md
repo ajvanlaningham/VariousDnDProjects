@@ -33,12 +33,12 @@ cantrips: acid splash, mage hand, minor illusion, true strike
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 22 | 6 | - |
+| Strength | 22 | 6 | 6 |
 | Dexterity | 17 | 3 | 6 |
-| Constitution | 17 | 3 | - |
-| Intelligence | 14 | 2 | - |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 15 | 2 | 5 |
 | Charisma | 14 | 2 | 5 |
 

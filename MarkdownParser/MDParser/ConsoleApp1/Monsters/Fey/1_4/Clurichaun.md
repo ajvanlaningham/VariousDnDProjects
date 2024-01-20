@@ -25,14 +25,14 @@ at will: friends, mending, minor illusion, purify food and drink, vicious mocker
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 13 | 1 | - |
-| Dexterity | 12 | 1 | - |
+| Strength | 13 | 1 | 1 |
+| Dexterity | 12 | 1 | 1 |
 | Constitution | 16 | 3 | 5 |
-| Intelligence | 10 | 0 | - |
-| Wisdom | 8 | -1 | - |
-| Charisma | 16 | 3 | - |
+| Intelligence | 10 | 0 | 0 |
+| Wisdom | 8 | -1 | -1 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

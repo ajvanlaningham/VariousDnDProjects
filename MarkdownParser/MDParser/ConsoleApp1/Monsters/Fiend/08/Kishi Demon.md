@@ -31,14 +31,14 @@ summon Demon (1/Day): The kishi demon has a 35 percent chance of summoning one k
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 19 | 4 | - |
+| Strength | 19 | 4 | 4 |
 | Dexterity | 20 | 5 | 8 |
 | Constitution | 19 | 4 | 7 |
-| Intelligence | 15 | 2 | - |
+| Intelligence | 15 | 2 | 2 |
 | Wisdom | 11 | 0 | 3 |
-| Charisma | 22 | 6 | - |
+| Charisma | 22 | 6 | 6 |
 
 ### Actions
  --- 

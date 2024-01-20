@@ -33,12 +33,12 @@ at will: detect evil and good, detect magic, thunderwave
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 21 | 5 | - |
+| Strength | 21 | 5 | 5 |
 | Dexterity | 15 | 2 | 6 |
-| Constitution | 22 | 6 | - |
-| Intelligence | 15 | 2 | - |
+| Constitution | 22 | 6 | 6 |
+| Intelligence | 15 | 2 | 2 |
 | Wisdom | 16 | 3 | 7 |
 | Charisma | 20 | 5 | 9 |
 

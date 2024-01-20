@@ -25,14 +25,14 @@ At will: dancing lights, minor illusion
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 8 | -1 | - |
-| Dexterity | 19 | 4 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 7 | -1 | - |
-| Wisdom | 13 | 1 | - |
-| Charisma | 15 | 2 | - |
+| Strength | 8 | -1 | -1 |
+| Dexterity | 19 | 4 | 4 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 7 | -1 | -1 |
+| Wisdom | 13 | 1 | 1 |
+| Charisma | 15 | 2 | 2 |
 
 ### Actions
  --- 

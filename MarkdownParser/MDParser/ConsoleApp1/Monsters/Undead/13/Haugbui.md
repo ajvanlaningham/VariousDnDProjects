@@ -41,14 +41,14 @@ at will: dancing lights, druidcraft, mending, spare the dying
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
+| Strength | 18 | 4 | 4 |
 | Dexterity | 17 | 3 | 8 |
 | Constitution | 18 | 4 | 9 |
-| Intelligence | 15 | 2 | - |
+| Intelligence | 15 | 2 | 2 |
 | Wisdom | 20 | 5 | 10 |
-| Charisma | 16 | 3 | - |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

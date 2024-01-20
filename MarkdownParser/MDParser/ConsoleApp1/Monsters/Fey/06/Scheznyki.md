@@ -27,14 +27,14 @@ at will: dancing lights, darkness, detect evil and good, faerie fire, invisibili
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 19 | 4 | 10 |
-| Dexterity | 15 | 2 | - |
+| Dexterity | 15 | 2 | 2 |
 | Constitution | 18 | 4 | 10 |
-| Intelligence | 15 | 2 | - |
-| Wisdom | 16 | 3 | - |
-| Charisma | 16 | 3 | - |
+| Intelligence | 15 | 2 | 2 |
+| Wisdom | 16 | 3 | 3 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

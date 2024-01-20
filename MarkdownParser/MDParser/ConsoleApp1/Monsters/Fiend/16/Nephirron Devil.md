@@ -26,14 +26,14 @@ At will: detect thoughts, protection from evil and good, teleport (self plus 150
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 27 | 8 | - |
+| Strength | 27 | 8 | 8 |
 | Dexterity | 14 | 2 | 7 |
 | Constitution | 23 | 6 | 11 |
-| Intelligence | 22 | 6 | - |
+| Intelligence | 22 | 6 | 6 |
 | Wisdom | 19 | 4 | 9 |
-| Charisma | 25 | 7 | - |
+| Charisma | 25 | 7 | 7 |
 
 ### Actions
  --- 

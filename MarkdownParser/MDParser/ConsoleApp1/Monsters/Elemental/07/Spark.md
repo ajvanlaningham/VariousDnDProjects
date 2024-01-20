@@ -23,14 +23,14 @@ at will: shocking grasp
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 4 | -3 | - |
+| Strength | 4 | -3 | -3 |
 | Dexterity | 20 | 5 | 8 |
-| Constitution | 18 | 4 | - |
-| Intelligence | 10 | 0 | - |
-| Wisdom | 12 | 1 | - |
-| Charisma | 17 | 3 | - |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 10 | 0 | 0 |
+| Wisdom | 12 | 1 | 1 |
+| Charisma | 17 | 3 | 3 |
 
 ### Actions
  --- 

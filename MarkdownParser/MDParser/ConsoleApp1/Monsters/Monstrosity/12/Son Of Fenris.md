@@ -43,14 +43,14 @@ cantrips (at will): guidance, light, sacred flame, spare the dying, thaumaturgy
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 26 | 8 | - |
+| Strength | 26 | 8 | 8 |
 | Dexterity | 16 | 3 | 7 |
 | Constitution | 23 | 6 | 10 |
-| Intelligence | 16 | 3 | - |
+| Intelligence | 16 | 3 | 3 |
 | Wisdom | 18 | 4 | 8 |
-| Charisma | 14 | 2 | - |
+| Charisma | 14 | 2 | 2 |
 
 ### Actions
  --- 

@@ -29,13 +29,13 @@ at will: create or destroy water, dancing lights, ray of frost, resistance, witc
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 20 | 5 | 9 |
 | Dexterity | 15 | 2 | 6 |
 | Constitution | 18 | 4 | 8 |
-| Intelligence | 13 | 1 | - |
-| Wisdom | 13 | 1 | - |
+| Intelligence | 13 | 1 | 1 |
+| Wisdom | 13 | 1 | 1 |
 | Charisma | 18 | 4 | 8 |
 
 ### Actions

@@ -25,14 +25,14 @@ While in shapeless form, it can occupy another creature’s space and vice versa
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 16 | 3 | - |
-| Constitution | 13 | 1 | - |
-| Intelligence | 8 | -1 | - |
-| Wisdom | 12 | 1 | - |
-| Charisma | 19 | 4 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 16 | 3 | 3 |
+| Constitution | 13 | 1 | 1 |
+| Intelligence | 8 | -1 | -1 |
+| Wisdom | 12 | 1 | 1 |
+| Charisma | 19 | 4 | 4 |
 
 ### Actions
  --- 

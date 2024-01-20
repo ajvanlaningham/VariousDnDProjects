@@ -31,9 +31,9 @@ at will: faerie fire, moonbeam
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 17 | 3 | 8 |
 | Constitution | 21 | 5 | 10 |
 | Intelligence | 16 | 3 | 8 |

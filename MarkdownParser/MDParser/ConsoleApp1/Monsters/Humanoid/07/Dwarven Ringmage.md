@@ -35,14 +35,14 @@ cantrips (at will): fire bolt, mage hand, shocking grasp, true strike
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 14 | 2 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 13 | 1 | 4 |
 | Intelligence | 18 | 4 | 7 |
 | Wisdom | 12 | 1 | 4 |
-| Charisma | 9 | 0 | - |
+| Charisma | 9 | 0 | 0 |
 
 ### Actions
  --- 

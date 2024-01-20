@@ -29,14 +29,14 @@ at will: comprehend languages, minor illusion
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 12 | 1 | - |
+| Strength | 12 | 1 | 1 |
 | Dexterity | 15 | 2 | 4 |
-| Constitution | 18 | 4 | - |
-| Intelligence | 14 | 2 | - |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 16 | 3 | 5 |
-| Charisma | 22 | 6 | - |
+| Charisma | 22 | 6 | 6 |
 
 ### Actions
  --- 

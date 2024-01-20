@@ -29,14 +29,14 @@ While in the Plane of Shadow, the shadow giant can see and hear 120 feet into th
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 25 | 7 | - |
-| Constitution | 17 | 3 | - |
-| Intelligence | 12 | 1 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 25 | 7 | 7 |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 12 | 1 | 1 |
 | Wisdom | 13 | 1 | 6 |
-| Charisma | 21 | 5 | - |
+| Charisma | 21 | 5 | 5 |
 
 ### Actions
  --- 

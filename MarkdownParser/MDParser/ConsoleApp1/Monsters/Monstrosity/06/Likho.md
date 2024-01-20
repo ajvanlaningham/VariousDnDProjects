@@ -27,13 +27,13 @@ at will: message
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 18 | 4 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 18 | 4 | 4 |
 | Constitution | 16 | 3 | 7 |
-| Intelligence | 13 | 1 | - |
-| Wisdom | 16 | 3 | - |
+| Intelligence | 13 | 1 | 1 |
+| Wisdom | 16 | 3 | 3 |
 | Charisma | 21 | 5 | 8 |
 
 ### Actions

@@ -24,10 +24,10 @@ At will: detect magic, illusory script
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 14 | 2 | - |
-| Dexterity | 16 | 3 | - |
+| Strength | 14 | 2 | 2 |
+| Dexterity | 16 | 3 | 3 |
 | Constitution | 16 | 3 | 6 |
 | Intelligence | 18 | 4 | 7 |
 | Wisdom | 14 | 2 | 5 |

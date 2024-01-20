@@ -29,14 +29,14 @@ Cantrips (at will): pummelstone, light, mage hand, ray of frost
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 9 | 0 | - |
-| Dexterity | 14 | 2 | - |
+| Strength | 9 | 0 | 0 |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 15 | 2 | 4 |
 | Intelligence | 16 | 3 | 5 |
-| Wisdom | 11 | 0 | - |
-| Charisma | 12 | 1 | - |
+| Wisdom | 11 | 0 | 0 |
+| Charisma | 12 | 1 | 1 |
 
 ### Actions
  --- 

@@ -23,13 +23,13 @@ At will: chill touch, mage hand
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 13 | 1 | - |
-| Constitution | 19 | 4 | - |
-| Intelligence | 10 | 0 | - |
-| Wisdom | 14 | 2 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 13 | 1 | 1 |
+| Constitution | 19 | 4 | 4 |
+| Intelligence | 10 | 0 | 0 |
+| Wisdom | 14 | 2 | 2 |
 | Charisma | 15 | 2 | 4 |
 
 ### Actions

@@ -27,14 +27,14 @@ at will: produce spark (as the cantrip produce flame, but it does lightning dama
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 3 | -3 | - |
+| Strength | 3 | -3 | -3 |
 | Dexterity | 18 | 4 | 7 |
-| Constitution | 14 | 2 | - |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 10 | 0 | - |
-| Charisma | 14 | 2 | - |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 14 | 2 | 2 |
 
 ### Actions
  --- 

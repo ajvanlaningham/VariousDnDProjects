@@ -25,13 +25,13 @@ at will: calm emotions, charm animal (as charm person but affects beasts only), 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
+| Strength | 15 | 2 | 2 |
 | Dexterity | 16 | 3 | 5 |
 | Constitution | 17 | 3 | 7 |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 15 | 2 | - |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 15 | 2 | 2 |
 | Charisma | 17 | 3 | 7 |
 
 ### Actions

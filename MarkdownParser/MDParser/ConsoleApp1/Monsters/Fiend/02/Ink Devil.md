@@ -25,14 +25,14 @@ at will: detect magic, illusory script, invisibility, teleport (self plus 50 lb 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 12 | 1 | - |
+| Strength | 12 | 1 | 1 |
 | Dexterity | 18 | 4 | 6 |
-| Constitution | 12 | 1 | - |
-| Intelligence | 20 | 5 | - |
-| Wisdom | 8 | -1 | - |
-| Charisma | 18 | 4 | - |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 20 | 5 | 5 |
+| Wisdom | 8 | -1 | -1 |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

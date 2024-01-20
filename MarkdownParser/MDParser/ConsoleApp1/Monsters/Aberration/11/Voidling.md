@@ -29,10 +29,10 @@ at will: darkness, detect magic, fear
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
-| Dexterity | 22 | 6 | - |
+| Strength | 15 | 2 | 2 |
+| Dexterity | 22 | 6 | 6 |
 | Constitution | 10 | 0 | 4 |
 | Intelligence | 14 | 2 | 6 |
 | Wisdom | 16 | 3 | 7 |

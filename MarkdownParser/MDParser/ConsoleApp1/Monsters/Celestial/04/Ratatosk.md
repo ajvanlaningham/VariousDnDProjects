@@ -25,12 +25,12 @@ at will: animal messenger, message, vicious mockery
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 4 | -3 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 12 | 1 | - |
-| Intelligence | 17 | 3 | - |
+| Strength | 4 | -3 | -3 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 17 | 3 | 3 |
 | Wisdom | 10 | 0 | 4 |
 | Charisma | 18 | 4 | 4 |
 

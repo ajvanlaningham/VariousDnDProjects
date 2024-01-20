@@ -29,12 +29,12 @@ at will: feather fall
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 24 | 7 | - |
+| Strength | 24 | 7 | 7 |
 | Dexterity | 15 | 2 | 8 |
 | Constitution | 24 | 7 | 13 |
-| Intelligence | 14 | 2 | - |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 14 | 2 | 9 |
 | Charisma | 20 | 5 | 11 |
 

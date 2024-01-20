@@ -29,14 +29,14 @@ at will: disguise self (humanoid forms only), fog cloud
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 15 | 2 | 6 |
 | Constitution | 14 | 2 | 6 |
-| Intelligence | 11 | 0 | - |
+| Intelligence | 11 | 0 | 0 |
 | Wisdom | 12 | 1 | 5 |
-| Charisma | 18 | 4 | - |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

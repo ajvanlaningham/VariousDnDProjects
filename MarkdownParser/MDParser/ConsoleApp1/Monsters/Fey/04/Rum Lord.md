@@ -27,14 +27,14 @@ At will: prestidigitation
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 14 | 2 | - |
-| Constitution | 17 | 3 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 9 | 0 | - |
-| Charisma | 16 | 3 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 14 | 2 | 2 |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 9 | 0 | 0 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

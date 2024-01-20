@@ -27,7 +27,7 @@ at will: dancing lights
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 13 | 1 | 4 |
 | Dexterity | 19 | 4 | 7 |

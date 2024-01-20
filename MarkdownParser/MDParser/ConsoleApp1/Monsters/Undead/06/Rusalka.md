@@ -25,14 +25,14 @@ at will: control water, suggestion, tongues, water walk (can be ended freely at 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 17 | 3 | - |
-| Dexterity | 13 | 1 | - |
-| Constitution | 12 | 1 | - |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 15 | 2 | - |
-| Charisma | 18 | 4 | - |
+| Strength | 17 | 3 | 3 |
+| Dexterity | 13 | 1 | 1 |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 15 | 2 | 2 |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

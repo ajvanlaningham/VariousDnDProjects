@@ -25,14 +25,14 @@ As a bonus action, the frog can release one creature or weapon stuck to it. The 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 14 | 2 | - |
-| Dexterity | 9 | 0 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 3 | -3 | - |
-| Wisdom | 11 | 0 | - |
-| Charisma | 6 | -2 | - |
+| Strength | 14 | 2 | 2 |
+| Dexterity | 9 | 0 | 0 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 3 | -3 | -3 |
+| Wisdom | 11 | 0 | 0 |
+| Charisma | 6 | -2 | -2 |
 
 ### Actions
  --- 

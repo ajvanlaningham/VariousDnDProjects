@@ -28,12 +28,12 @@ At will: create or destroy water, detect poison and disease, produce flame, puri
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 12 | 1 | - |
-| Dexterity | 21 | 5 | - |
-| Constitution | 18 | 4 | - |
-| Intelligence | 15 | 2 | - |
+| Strength | 12 | 1 | 1 |
+| Dexterity | 21 | 5 | 5 |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 15 | 2 | 2 |
 | Wisdom | 16 | 3 | 6 |
 | Charisma | 20 | 5 | 8 |
 

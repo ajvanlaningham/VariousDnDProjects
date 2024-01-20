@@ -25,14 +25,14 @@ At will: comprehend languages, fire bolt, mage hand, prestidigitation, ray of si
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 8 | -1 | - |
-| Constitution | 17 | 3 | - |
-| Intelligence | 18 | 4 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 8 | -1 | -1 |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 18 | 4 | 4 |
 | Wisdom | 11 | 0 | 3 |
-| Charisma | 14 | 2 | - |
+| Charisma | 14 | 2 | 2 |
 
 ### Actions
  --- 

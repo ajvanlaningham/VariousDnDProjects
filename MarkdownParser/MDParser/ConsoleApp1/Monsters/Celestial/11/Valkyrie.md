@@ -31,7 +31,7 @@ at will: bane, bless, invisibility, sacred flame, spare the dying, speak with an
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 18 | 4 | 12 |
 | Dexterity | 18 | 4 | 12 |

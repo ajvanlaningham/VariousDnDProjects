@@ -25,12 +25,12 @@ at will: aid, blur, detect magic, dimension door
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 21 | 5 | - |
+| Strength | 21 | 5 | 5 |
 | Dexterity | 14 | 2 | 6 |
 | Constitution | 19 | 4 | 8 |
-| Intelligence | 13 | 1 | - |
+| Intelligence | 13 | 1 | 1 |
 | Wisdom | 16 | 3 | 7 |
 | Charisma | 18 | 4 | 8 |
 

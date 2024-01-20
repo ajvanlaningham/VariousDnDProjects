@@ -37,11 +37,11 @@ cantrips (at will): guidance, light, sacred flame, spare the dying, thaumaturgy
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 10 | 0 | - |
-| Constitution | 14 | 2 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 10 | 0 | 0 |
+| Constitution | 14 | 2 | 2 |
 | Intelligence | 15 | 2 | 5 |
 | Wisdom | 20 | 5 | 8 |
 | Charisma | 15 | 2 | 5 |

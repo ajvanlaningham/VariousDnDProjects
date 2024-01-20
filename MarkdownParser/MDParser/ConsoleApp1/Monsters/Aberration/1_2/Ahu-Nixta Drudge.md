@@ -23,14 +23,14 @@ At will: fire bolt  (1d10)
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
-| Dexterity | 12 | 1 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 10 | 0 | - |
-| Charisma | 10 | 0 | - |
+| Strength | 15 | 2 | 2 |
+| Dexterity | 12 | 1 | 1 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

@@ -33,13 +33,13 @@ cantrips (at will): detect magic, guidance, light, mending, poison spray, presti
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 21 | 5 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 21 | 5 | 5 |
 | Constitution | 18 | 4 | 8 |
-| Intelligence | 16 | 3 | - |
-| Wisdom | 16 | 3 | - |
+| Intelligence | 16 | 3 | 3 |
+| Wisdom | 16 | 3 | 3 |
 | Charisma | 23 | 6 | 9 |
 
 ### Actions

@@ -32,11 +32,11 @@ At will: detect evil and good, detect magic, detect thoughts, invisibility (self
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 23 | 6 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 25 | 7 | - |
+| Strength | 23 | 6 | 6 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 25 | 7 | 7 |
 | Intelligence | 22 | 6 | 12 |
 | Wisdom | 24 | 7 | 13 |
 | Charisma | 20 | 5 | 11 |

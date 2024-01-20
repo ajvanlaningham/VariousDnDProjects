@@ -24,14 +24,14 @@ At will: poison spray
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 8 | -1 | - |
+| Strength | 8 | -1 | -1 |
 | Dexterity | 18 | 4 | 6 |
-| Constitution | 12 | 1 | - |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 13 | 1 | - |
-| Charisma | 15 | 2 | - |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 13 | 1 | 1 |
+| Charisma | 15 | 2 | 2 |
 
 ### Actions
  --- 

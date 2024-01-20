@@ -27,14 +27,14 @@ at will: guidance
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 8 | -1 | - |
-| Dexterity | 19 | 4 | - |
-| Constitution | 12 | 1 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 16 | 3 | - |
-| Charisma | 18 | 4 | - |
+| Strength | 8 | -1 | -1 |
+| Dexterity | 19 | 4 | 4 |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 16 | 3 | 3 |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

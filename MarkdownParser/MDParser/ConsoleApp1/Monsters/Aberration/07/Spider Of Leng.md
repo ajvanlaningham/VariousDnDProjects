@@ -29,14 +29,14 @@ at will: comprehend languages, detect magic, shocking grasp
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 14 | 2 | - |
+| Strength | 14 | 2 | 2 |
 | Dexterity | 16 | 3 | 6 |
 | Constitution | 16 | 3 | 6 |
 | Intelligence | 17 | 3 | 6 |
-| Wisdom | 10 | 0 | - |
-| Charisma | 10 | 0 | - |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

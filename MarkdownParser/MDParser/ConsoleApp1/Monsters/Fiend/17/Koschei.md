@@ -49,12 +49,12 @@ if Koschei dies, conditions in the area surrounding his lair return to normal ov
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 22 | 6 | - |
+| Strength | 22 | 6 | 6 |
 | Dexterity | 12 | 1 | 7 |
-| Constitution | 17 | 3 | - |
-| Intelligence | 17 | 3 | - |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 17 | 3 | 3 |
 | Wisdom | 13 | 1 | 7 |
 | Charisma | 21 | 5 | 11 |
 

@@ -29,14 +29,14 @@ at will: comprehend languages
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 10 | 0 | 3 |
 | Dexterity | 14 | 2 | 5 |
-| Constitution | 12 | 1 | - |
-| Intelligence | 12 | 1 | - |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 12 | 1 | 1 |
 | Wisdom | 18 | 4 | 7 |
-| Charisma | 14 | 2 | - |
+| Charisma | 14 | 2 | 2 |
 
 ### Actions
  --- 

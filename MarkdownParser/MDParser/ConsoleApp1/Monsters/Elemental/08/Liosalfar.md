@@ -33,9 +33,9 @@ at Will: augury, color spray, dancing lights, detect magic, flare, light, silent
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
+| Strength | 10 | 0 | 0 |
 | Dexterity | 25 | 7 | 10 |
 | Constitution | 10 | 0 | 3 |
 | Intelligence | 18 | 4 | 7 |

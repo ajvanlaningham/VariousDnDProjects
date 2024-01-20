@@ -26,14 +26,14 @@ At will: detect magic, detect thoughts, mage hand, silent image
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 14 | 2 | - |
-| Dexterity | 10 | 0 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 19 | 4 | - |
-| Wisdom | 17 | 3 | - |
-| Charisma | 17 | 3 | - |
+| Strength | 14 | 2 | 2 |
+| Dexterity | 10 | 0 | 0 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 19 | 4 | 4 |
+| Wisdom | 17 | 3 | 3 |
+| Charisma | 17 | 3 | 3 |
 
 ### Actions
  --- 

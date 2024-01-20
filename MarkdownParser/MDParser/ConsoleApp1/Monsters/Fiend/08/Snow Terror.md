@@ -21,14 +21,14 @@ While in the form of the creature it most recently killed, creatures that knew t
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 19 | 4 | - |
-| Dexterity | 22 | 6 | - |
+| Strength | 19 | 4 | 4 |
+| Dexterity | 22 | 6 | 6 |
 | Constitution | 17 | 3 | 6 |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 9 | 0 | - |
-| Charisma | 16 | 3 | - |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 9 | 0 | 0 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

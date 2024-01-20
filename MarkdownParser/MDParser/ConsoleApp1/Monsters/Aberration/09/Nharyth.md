@@ -21,14 +21,14 @@ The nharyth can plant up to 24 spines in a web when creating it. Once it has use
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
-| Dexterity | 15 | 2 | - |
-| Constitution | 18 | 4 | - |
-| Intelligence | 5 | -2 | - |
-| Wisdom | 14 | 2 | - |
-| Charisma | 7 | -1 | - |
+| Strength | 20 | 5 | 5 |
+| Dexterity | 15 | 2 | 2 |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 5 | -2 | -2 |
+| Wisdom | 14 | 2 | 2 |
+| Charisma | 7 | -1 | -1 |
 
 ### Actions
  --- 

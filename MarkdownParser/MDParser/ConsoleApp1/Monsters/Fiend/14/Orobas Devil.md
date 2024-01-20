@@ -35,14 +35,14 @@ at will: augury, protection from evil and good, teleport (self plus 50 lb of obj
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 26 | 8 | 12 |
 | Dexterity | 14 | 2 | 7 |
 | Constitution | 28 | 9 | 14 |
-| Intelligence | 23 | 6 | - |
+| Intelligence | 23 | 6 | 6 |
 | Wisdom | 26 | 8 | 13 |
-| Charisma | 21 | 5 | - |
+| Charisma | 21 | 5 | 5 |
 
 ### Actions
  --- 

@@ -27,13 +27,13 @@ at will: thaumaturgy
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 19 | 4 | - |
+| Strength | 19 | 4 | 4 |
 | Dexterity | 14 | 2 | 5 |
 | Constitution | 18 | 4 | 7 |
 | Intelligence | 10 | 0 | 4 |
-| Wisdom | 12 | 1 | - |
+| Wisdom | 12 | 1 | 1 |
 | Charisma | 15 | 2 | 6 |
 
 ### Actions

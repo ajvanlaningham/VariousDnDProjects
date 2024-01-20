@@ -23,14 +23,14 @@ At will: crushing curse, minor illusion
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 8 | -1 | - |
-| Dexterity | 12 | 1 | - |
-| Constitution | 13 | 1 | - |
-| Intelligence | 3 | -3 | - |
-| Wisdom | 10 | 0 | - |
-| Charisma | 14 | 2 | - |
+| Strength | 8 | -1 | -1 |
+| Dexterity | 12 | 1 | 1 |
+| Constitution | 13 | 1 | 1 |
+| Intelligence | 3 | -3 | -3 |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 14 | 2 | 2 |
 
 ### Actions
  --- 

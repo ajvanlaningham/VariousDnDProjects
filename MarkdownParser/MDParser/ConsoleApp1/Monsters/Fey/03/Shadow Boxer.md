@@ -21,14 +21,14 @@
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
+| Strength | 10 | 0 | 0 |
 | Dexterity | 17 | 3 | 5 |
-| Constitution | 15 | 2 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 17 | 3 | - |
-| Charisma | 17 | 3 | - |
+| Constitution | 15 | 2 | 2 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 17 | 3 | 3 |
+| Charisma | 17 | 3 | 3 |
 
 ### Actions
  --- 

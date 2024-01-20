@@ -25,14 +25,14 @@ at will: chill touch
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
+| Strength | 10 | 0 | 0 |
 | Dexterity | 20 | 5 | 8 |
-| Constitution | 18 | 4 | - |
-| Intelligence | 14 | 2 | - |
-| Wisdom | 10 | 0 | - |
-| Charisma | 16 | 3 | - |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 14 | 2 | 2 |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

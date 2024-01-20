@@ -21,14 +21,14 @@ at will: speak with animals
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 4 | -3 | - |
-| Dexterity | 15 | 2 | - |
-| Constitution | 10 | 0 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 12 | 1 | - |
-| Charisma | 4 | -3 | - |
+| Strength | 4 | -3 | -3 |
+| Dexterity | 15 | 2 | 2 |
+| Constitution | 10 | 0 | 0 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 12 | 1 | 1 |
+| Charisma | 4 | -3 | -3 |
 
 ### Actions
  --- 

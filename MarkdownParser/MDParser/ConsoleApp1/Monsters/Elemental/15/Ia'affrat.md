@@ -35,12 +35,12 @@ at will: fire bolt, poison spray
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 3 | -3 | - |
+| Strength | 3 | -3 | -3 |
 | Dexterity | 21 | 5 | 10 |
 | Constitution | 16 | 3 | 8 |
-| Intelligence | 20 | 5 | - |
+| Intelligence | 20 | 5 | 5 |
 | Wisdom | 18 | 4 | 9 |
 | Charisma | 23 | 6 | 11 |
 

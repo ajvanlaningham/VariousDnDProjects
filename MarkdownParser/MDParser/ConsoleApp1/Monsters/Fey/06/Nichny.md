@@ -33,14 +33,14 @@ at Will: detect magic, invisibility, magic missile, ray of frost
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 17 | 3 | - |
+| Strength | 17 | 3 | 3 |
 | Dexterity | 19 | 4 | 7 |
-| Constitution | 17 | 3 | - |
-| Intelligence | 18 | 4 | - |
-| Wisdom | 18 | 4 | - |
-| Charisma | 19 | 4 | - |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 18 | 4 | 4 |
+| Wisdom | 18 | 4 | 4 |
+| Charisma | 19 | 4 | 4 |
 
 ### Actions
  --- 

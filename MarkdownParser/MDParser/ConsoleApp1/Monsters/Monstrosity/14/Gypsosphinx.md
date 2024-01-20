@@ -35,14 +35,14 @@ cantrips: (at will): mage hand, mending, minor illusion, poison spray
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
-| Dexterity | 14 | 2 | - |
-| Constitution | 18 | 4 | - |
-| Intelligence | 18 | 4 | - |
-| Wisdom | 18 | 4 | - |
-| Charisma | 18 | 4 | - |
+| Strength | 20 | 5 | 5 |
+| Dexterity | 14 | 2 | 2 |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 18 | 4 | 4 |
+| Wisdom | 18 | 4 | 4 |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

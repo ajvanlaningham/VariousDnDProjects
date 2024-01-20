@@ -33,14 +33,14 @@ at will: fly, major image, planar binding
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 21 | 5 | 8 |
 | Dexterity | 21 | 5 | 8 |
 | Constitution | 20 | 5 | 8 |
-| Intelligence | 16 | 3 | - |
+| Intelligence | 16 | 3 | 3 |
 | Wisdom | 15 | 2 | 5 |
-| Charisma | 18 | 4 | - |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

@@ -26,14 +26,14 @@ At will: charm person, chill touch, comprehend languages, detect magic
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
+| Strength | 18 | 4 | 4 |
 | Dexterity | 14 | 2 | 6 |
 | Constitution | 16 | 3 | 9 |
 | Intelligence | 17 | 3 | 7 |
-| Wisdom | 10 | 0 | - |
-| Charisma | 10 | 0 | - |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

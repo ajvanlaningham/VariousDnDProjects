@@ -23,12 +23,12 @@ At will: charm person, invisibility (self only), major image
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 16 | 3 | - |
+| Strength | 15 | 2 | 2 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 16 | 3 | 3 |
 | Wisdom | 16 | 3 | 7 |
 | Charisma | 20 | 5 | 9 |
 

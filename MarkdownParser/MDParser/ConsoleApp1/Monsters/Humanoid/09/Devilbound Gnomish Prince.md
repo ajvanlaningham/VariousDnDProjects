@@ -35,13 +35,13 @@ cantrips (at will): chill touch, eldritch blast, minor illusion, prestidigitatio
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 14 | 2 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 15 | 2 | 6 |
 | Intelligence | 16 | 3 | 7 |
-| Wisdom | 12 | 1 | - |
+| Wisdom | 12 | 1 | 1 |
 | Charisma | 22 | 6 | 10 |
 
 ### Actions

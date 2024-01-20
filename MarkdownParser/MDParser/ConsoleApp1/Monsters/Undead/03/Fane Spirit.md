@@ -26,14 +26,14 @@ At will: chill touch, spare the dying
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 7 | -1 | - |
-| Dexterity | 16 | 3 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 10 | 0 | - |
+| Strength | 7 | -1 | -1 |
+| Dexterity | 16 | 3 | 3 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 10 | 0 | 0 |
 | Wisdom | 18 | 4 | 6 |
-| Charisma | 17 | 3 | - |
+| Charisma | 17 | 3 | 3 |
 
 ### Actions
  --- 

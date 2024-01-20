@@ -24,14 +24,14 @@ At will: guidance, shillelagh
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 6 | -2 | - |
-| Dexterity | 14 | 2 | - |
-| Constitution | 12 | 1 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 18 | 4 | - |
-| Charisma | 12 | 1 | - |
+| Strength | 6 | -2 | -2 |
+| Dexterity | 14 | 2 | 2 |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 18 | 4 | 4 |
+| Charisma | 12 | 1 | 1 |
 
 ### Actions
  --- 

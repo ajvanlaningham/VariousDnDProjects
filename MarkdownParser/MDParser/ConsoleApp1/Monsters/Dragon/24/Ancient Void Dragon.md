@@ -41,12 +41,12 @@ if the dragon dies, these effects fade over the course of 1d10 days.
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 28 | 9 | - |
+| Strength | 28 | 9 | 9 |
 | Dexterity | 10 | 0 | 7 |
 | Constitution | 29 | 9 | 16 |
-| Intelligence | 18 | 4 | - |
+| Intelligence | 18 | 4 | 4 |
 | Wisdom | 15 | 2 | 9 |
 | Charisma | 23 | 6 | 13 |
 

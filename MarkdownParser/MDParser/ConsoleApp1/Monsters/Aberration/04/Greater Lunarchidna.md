@@ -26,14 +26,14 @@ Cantrips (at will): minor illusion, mage hand, poison spray, ray of frost
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 16 | 3 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 16 | 3 | 3 |
 | Constitution | 14 | 2 | 4 |
-| Intelligence | 12 | 1 | - |
+| Intelligence | 12 | 1 | 1 |
 | Wisdom | 12 | 1 | 3 |
-| Charisma | 15 | 2 | - |
+| Charisma | 15 | 2 | 2 |
 
 ### Actions
  --- 

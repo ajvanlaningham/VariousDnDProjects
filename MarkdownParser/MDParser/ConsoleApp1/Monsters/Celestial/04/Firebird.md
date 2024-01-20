@@ -27,9 +27,9 @@ at will: guidance, purify food and drink, speak with animals
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 12 | 1 | - |
+| Strength | 12 | 1 | 1 |
 | Dexterity | 19 | 4 | 6 |
 | Constitution | 14 | 2 | 4 |
 | Intelligence | 16 | 3 | 5 |

@@ -21,14 +21,14 @@ If the peat mammoth dies while it is on fire, it explodes in a burst of fire and
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 24 | 7 | - |
-| Dexterity | 6 | -2 | - |
-| Constitution | 21 | 5 | - |
-| Intelligence | 1 | -4 | - |
-| Wisdom | 8 | -1 | - |
-| Charisma | 3 | -3 | - |
+| Strength | 24 | 7 | 7 |
+| Dexterity | 6 | -2 | -2 |
+| Constitution | 21 | 5 | 5 |
+| Intelligence | 1 | -4 | -4 |
+| Wisdom | 8 | -1 | -1 |
+| Charisma | 3 | -3 | -3 |
 
 ### Actions
  --- 

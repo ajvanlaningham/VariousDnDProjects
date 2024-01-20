@@ -31,14 +31,14 @@ at will: dancing lights, druidcraft
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 20 | 5 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 20 | 5 | 5 |
 | Constitution | 13 | 1 | 3 |
-| Intelligence | 14 | 2 | - |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 15 | 2 | 4 |
-| Charisma | 24 | 7 | - |
+| Charisma | 24 | 7 | 7 |
 
 ### Actions
  --- 

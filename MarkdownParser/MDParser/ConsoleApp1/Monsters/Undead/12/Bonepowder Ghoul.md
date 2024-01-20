@@ -29,12 +29,12 @@ at will: chill touch, darkness, dispel magic, ray of enfeeblement
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
+| Strength | 10 | 0 | 0 |
 | Dexterity | 20 | 5 | 9 |
 | Constitution | 18 | 4 | 8 |
-| Intelligence | 19 | 4 | - |
+| Intelligence | 19 | 4 | 4 |
 | Wisdom | 15 | 2 | 6 |
 | Charisma | 18 | 4 | 8 |
 

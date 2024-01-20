@@ -33,9 +33,9 @@ cantrips (at will): acid splash, light, mage hand, prestidigitation
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 27 | 8 | - |
+| Strength | 27 | 8 | 8 |
 | Dexterity | 18 | 4 | 9 |
 | Constitution | 21 | 5 | 10 |
 | Intelligence | 20 | 5 | 10 |

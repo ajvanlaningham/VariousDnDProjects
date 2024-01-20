@@ -25,12 +25,12 @@ at will: charm person, suggestion, teleport
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 24 | 7 | 11 |
 | Dexterity | 17 | 3 | 7 |
 | Constitution | 20 | 5 | 9 |
-| Intelligence | 11 | 0 | - |
+| Intelligence | 11 | 0 | 0 |
 | Wisdom | 14 | 2 | 6 |
 | Charisma | 19 | 4 | 8 |
 

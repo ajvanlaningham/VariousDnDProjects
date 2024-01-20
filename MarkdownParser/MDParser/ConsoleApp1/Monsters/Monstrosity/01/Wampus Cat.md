@@ -25,14 +25,14 @@ at will: disguise self (appearance of a female human), mage hand
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 14 | 2 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 15 | 2 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 14 | 2 | - |
-| Charisma | 16 | 3 | - |
+| Strength | 14 | 2 | 2 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 15 | 2 | 2 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 14 | 2 | 2 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

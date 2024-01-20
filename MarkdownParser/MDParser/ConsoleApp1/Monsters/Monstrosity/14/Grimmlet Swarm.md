@@ -28,14 +28,14 @@ At will: maddening whispers, crushing curse, minor illusion
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 17 | 3 | - |
-| Dexterity | 12 | 1 | - |
-| Constitution | 19 | 4 | - |
-| Intelligence | 3 | -3 | - |
-| Wisdom | 10 | 0 | - |
-| Charisma | 18 | 4 | - |
+| Strength | 17 | 3 | 3 |
+| Dexterity | 12 | 1 | 1 |
+| Constitution | 19 | 4 | 4 |
+| Intelligence | 3 | -3 | -3 |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

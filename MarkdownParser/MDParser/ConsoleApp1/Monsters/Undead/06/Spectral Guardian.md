@@ -35,14 +35,14 @@ cantrips (at will): acid splash, chill touch, dancing lights,minor illusion, ray
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 6 | -2 | - |
+| Strength | 6 | -2 | -2 |
 | Dexterity | 18 | 4 | 7 |
-| Constitution | 18 | 4 | - |
-| Intelligence | 11 | 0 | - |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 11 | 0 | 0 |
 | Wisdom | 16 | 3 | 6 |
-| Charisma | 18 | 4 | - |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

@@ -25,14 +25,14 @@ at will: lightning bolt
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 19 | 4 | 9 |
 | Constitution | 22 | 6 | 11 |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 16 | 3 | - |
-| Charisma | 11 | 0 | - |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 16 | 3 | 3 |
+| Charisma | 11 | 0 | 0 |
 
 ### Actions
  --- 

@@ -25,14 +25,14 @@ at will: detect thoughts
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 7 | -1 | - |
-| Dexterity | 17 | 3 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 14 | 2 | - |
-| Wisdom | 17 | 3 | - |
-| Charisma | 16 | 3 | - |
+| Strength | 7 | -1 | -1 |
+| Dexterity | 17 | 3 | 3 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 14 | 2 | 2 |
+| Wisdom | 17 | 3 | 3 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

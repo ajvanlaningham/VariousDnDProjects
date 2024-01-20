@@ -35,12 +35,12 @@ at will: poison spray
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 22 | 6 | - |
+| Strength | 22 | 6 | 6 |
 | Dexterity | 20 | 5 | 12 |
 | Constitution | 25 | 7 | 14 |
-| Intelligence | 19 | 4 | - |
+| Intelligence | 19 | 4 | 4 |
 | Wisdom | 21 | 5 | 12 |
 | Charisma | 25 | 7 | 14 |
 

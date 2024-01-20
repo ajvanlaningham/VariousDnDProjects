@@ -31,14 +31,14 @@ at will: sacred flame
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 22 | 6 | - |
+| Strength | 22 | 6 | 6 |
 | Dexterity | 11 | 0 | 4 |
-| Constitution | 21 | 5 | - |
-| Intelligence | 16 | 3 | - |
+| Constitution | 21 | 5 | 5 |
+| Intelligence | 16 | 3 | 3 |
 | Wisdom | 18 | 4 | 8 |
-| Charisma | 18 | 4 | - |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

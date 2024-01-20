@@ -28,12 +28,12 @@ At will: detect evil and good, silence
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 14 | 2 | - |
+| Strength | 14 | 2 | 2 |
 | Dexterity | 21 | 5 | 10 |
-| Constitution | 16 | 3 | - |
-| Intelligence | 16 | 3 | - |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 16 | 3 | 3 |
 | Wisdom | 18 | 4 | 9 |
 | Charisma | 21 | 5 | 10 |
 

@@ -29,14 +29,14 @@ at will: bane, chill touch, hex, knock
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 19 | 4 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 20 | 5 | - |
-| Intelligence | 13 | 1 | - |
-| Wisdom | 15 | 2 | - |
-| Charisma | 17 | 3 | - |
+| Strength | 19 | 4 | 4 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 20 | 5 | 5 |
+| Intelligence | 13 | 1 | 1 |
+| Wisdom | 15 | 2 | 2 |
+| Charisma | 17 | 3 | 3 |
 
 ### Actions
  --- 

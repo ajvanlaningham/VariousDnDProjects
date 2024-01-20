@@ -27,14 +27,14 @@ Creatures immune to being frightened are immune to the de ogen’s Transfixing G
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 1 | -4 | - |
-| Dexterity | 20 | 5 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 13 | 1 | - |
-| Charisma | 10 | 0 | - |
+| Strength | 1 | -4 | -4 |
+| Dexterity | 20 | 5 | 5 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 13 | 1 | 1 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

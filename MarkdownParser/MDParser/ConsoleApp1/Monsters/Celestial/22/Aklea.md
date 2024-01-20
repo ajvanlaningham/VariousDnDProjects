@@ -19,10 +19,10 @@
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 30 | 10 | 17 |
-| Dexterity | 24 | 7 | - |
+| Dexterity | 24 | 7 | 7 |
 | Constitution | 30 | 10 | 17 |
 | Intelligence | 22 | 6 | 13 |
 | Wisdom | 24 | 7 | 14 |

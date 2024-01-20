@@ -25,14 +25,14 @@ at will: disguise self, inflict wounds (4d10), message, ray of enfeeblement
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
-| Dexterity | 16 | 3 | - |
-| Constitution | 22 | 6 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 14 | 2 | - |
-| Charisma | 19 | 4 | - |
+| Strength | 15 | 2 | 2 |
+| Dexterity | 16 | 3 | 3 |
+| Constitution | 22 | 6 | 6 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 14 | 2 | 2 |
+| Charisma | 19 | 4 | 4 |
 
 ### Actions
  --- 

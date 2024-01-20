@@ -31,11 +31,11 @@ A creature that takes necrotic damage from the shadow death’s weapon must succ
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 7 | -1 | - |
-| Dexterity | 26 | 8 | - |
-| Constitution | 24 | 7 | - |
+| Strength | 7 | -1 | -1 |
+| Dexterity | 26 | 8 | 8 |
+| Constitution | 24 | 7 | 7 |
 | Intelligence | 25 | 7 | 14 |
 | Wisdom | 25 | 7 | 14 |
 | Charisma | 30 | 10 | 17 |

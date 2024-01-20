@@ -17,13 +17,13 @@
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 17 | 3 | - |
+| Strength | 17 | 3 | 3 |
 | Dexterity | 18 | 4 | 8 |
 | Constitution | 18 | 4 | 8 |
-| Intelligence | 17 | 3 | - |
-| Wisdom | 16 | 3 | - |
+| Intelligence | 17 | 3 | 3 |
+| Wisdom | 16 | 3 | 3 |
 | Charisma | 26 | 8 | 12 |
 
 ### Actions

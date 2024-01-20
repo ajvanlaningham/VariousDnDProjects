@@ -139,14 +139,14 @@ namespace MDParser
 
 {monster.SpecialAbilitiesMarkdownString}
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | {monster.Strength} | {CalculateModifier(monster.Strength)} | {monster.StrengthSave?.ToString() ?? "-"} |
-| Dexterity | {monster.Dexterity} | {CalculateModifier(monster.Dexterity)} | {monster.DexteritySave?.ToString() ?? "-"} |
-| Constitution | {monster.Constitution} | {CalculateModifier(monster.Constitution)} | {monster.ConstitutionSave?.ToString() ?? "-"} |
-| Intelligence | {monster.Intelligence} | {CalculateModifier(monster.Intelligence)} | {monster.IntelligenceSave?.ToString() ?? "-"} |
-| Wisdom | {monster.Wisdom} | {CalculateModifier(monster.Wisdom)} | {monster.WisdomSave?.ToString() ?? "-"} |
-| Charisma | {monster.Charisma} | {CalculateModifier(monster.Charisma)} | {monster.CharismaSave?.ToString() ?? "-"} |
+| Strength | {monster.Strength} | {CalculateModifier(monster.Strength)} | {monster.StrengthSave?.ToString() ?? CalculateModifier(monster.Strength).ToString()} |
+| Dexterity | {monster.Dexterity} | {CalculateModifier(monster.Dexterity)} | {monster.DexteritySave?.ToString() ?? CalculateModifier(monster.Dexterity).ToString()} |
+| Constitution | {monster.Constitution} | {CalculateModifier(monster.Constitution)} | {monster.ConstitutionSave?.ToString() ?? CalculateModifier(monster.Constitution).ToString()} |
+| Intelligence | {monster.Intelligence} | {CalculateModifier(monster.Intelligence)} | {monster.IntelligenceSave?.ToString() ?? CalculateModifier(monster.Intelligence).ToString()} |
+| Wisdom | {monster.Wisdom} | {CalculateModifier(monster.Wisdom)} | {monster.WisdomSave?.ToString() ?? CalculateModifier(monster.Wisdom).ToString()} |
+| Charisma | {monster.Charisma} | {CalculateModifier(monster.Charisma)} | {monster.CharismaSave?.ToString() ?? CalculateModifier(monster.Charisma).ToString()} |
 
 ";
 

@@ -33,14 +33,14 @@ cantrips (at will): animal friendship (red hags treat this as a cantrip), poison
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 19 | 4 | - |
-| Dexterity | 16 | 3 | - |
-| Constitution | 18 | 4 | - |
-| Intelligence | 18 | 4 | - |
-| Wisdom | 22 | 6 | - |
-| Charisma | 15 | 2 | - |
+| Strength | 19 | 4 | 4 |
+| Dexterity | 16 | 3 | 3 |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 18 | 4 | 4 |
+| Wisdom | 22 | 6 | 6 |
+| Charisma | 15 | 2 | 2 |
 
 ### Actions
  --- 

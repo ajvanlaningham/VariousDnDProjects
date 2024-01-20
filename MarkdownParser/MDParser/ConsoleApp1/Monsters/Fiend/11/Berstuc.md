@@ -23,12 +23,12 @@
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 22 | 6 | 10 |
-| Dexterity | 10 | 0 | - |
-| Constitution | 20 | 5 | - |
-| Intelligence | 12 | 1 | - |
+| Dexterity | 10 | 0 | 0 |
+| Constitution | 20 | 5 | 5 |
+| Intelligence | 12 | 1 | 1 |
 | Wisdom | 14 | 2 | 6 |
 | Charisma | 19 | 4 | 8 |
 

@@ -32,12 +32,12 @@ Cantrips (at will): mage hand, message, true strike, vicious mockery
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 11 | 0 | - |
+| Strength | 11 | 0 | 0 |
 | Dexterity | 16 | 3 | 7 |
-| Constitution | 15 | 2 | - |
-| Intelligence | 15 | 2 | - |
+| Constitution | 15 | 2 | 2 |
+| Intelligence | 15 | 2 | 2 |
 | Wisdom | 12 | 1 | 6 |
 | Charisma | 20 | 5 | 9 |
 

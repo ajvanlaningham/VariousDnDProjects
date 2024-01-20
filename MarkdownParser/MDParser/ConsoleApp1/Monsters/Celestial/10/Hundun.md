@@ -45,12 +45,12 @@ at will: create or destroy water, dancing lights, mending, prestidigitation
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
-| Dexterity | 14 | 2 | - |
+| Strength | 20 | 5 | 5 |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 16 | 3 | 7 |
-| Intelligence | 4 | -3 | - |
+| Intelligence | 4 | -3 | -3 |
 | Wisdom | 20 | 5 | 9 |
 | Charisma | 18 | 4 | 8 |
 

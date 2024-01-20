@@ -29,12 +29,12 @@ at will: create water, speak with animals, stoneshape
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 30 | 10 | - |
-| Dexterity | 17 | 3 | - |
+| Strength | 30 | 10 | 10 |
+| Dexterity | 17 | 3 | 3 |
 | Constitution | 25 | 7 | 12 |
-| Intelligence | 10 | 0 | - |
+| Intelligence | 10 | 0 | 0 |
 | Wisdom | 18 | 4 | 9 |
 | Charisma | 23 | 6 | 11 |
 

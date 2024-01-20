@@ -33,9 +33,9 @@ cantrips (at will): dancing lights, mage hand, mending, ray of frost, resistance
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 16 | 3 | 7 |
 | Constitution | 21 | 5 | 9 |
 | Intelligence | 15 | 2 | 6 |

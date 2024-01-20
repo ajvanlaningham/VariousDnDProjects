@@ -45,11 +45,11 @@ if Hraesvelgr dies, conditions in the area surrounding the lair return to normal
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 25 | 7 | - |
+| Strength | 25 | 7 | 7 |
 | Dexterity | 10 | 0 | 6 |
-| Constitution | 20 | 5 | - |
+| Constitution | 20 | 5 | 5 |
 | Intelligence | 16 | 3 | 9 |
 | Wisdom | 17 | 3 | 9 |
 | Charisma | 20 | 5 | 11 |

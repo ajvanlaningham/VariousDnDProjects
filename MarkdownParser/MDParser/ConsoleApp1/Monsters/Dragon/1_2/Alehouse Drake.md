@@ -25,14 +25,14 @@ at will: friends, vicious mockery
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 7 | -1 | - |
+| Strength | 7 | -1 | -1 |
 | Dexterity | 16 | 3 | 5 |
-| Constitution | 19 | 4 | - |
-| Intelligence | 11 | 0 | - |
-| Wisdom | 12 | 1 | - |
-| Charisma | 16 | 3 | - |
+| Constitution | 19 | 4 | 4 |
+| Intelligence | 11 | 0 | 0 |
+| Wisdom | 12 | 1 | 1 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

@@ -39,13 +39,13 @@ alternatively, the saving throw and DC of the spell used to conjure or control t
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 9 | 0 | - |
-| Constitution | 16 | 3 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 9 | 0 | 0 |
+| Constitution | 16 | 3 | 3 |
 | Intelligence | 11 | 0 | 3 |
-| Wisdom | 16 | 3 | - |
+| Wisdom | 16 | 3 | 3 |
 | Charisma | 14 | 2 | 5 |
 
 ### Actions

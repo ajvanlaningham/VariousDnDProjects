@@ -25,14 +25,14 @@ Cantrips (at will): fire bolt, message, minor illusion
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 6 | -2 | - |
-| Dexterity | 14 | 2 | - |
-| Constitution | 10 | 0 | - |
+| Strength | 6 | -2 | -2 |
+| Dexterity | 14 | 2 | 2 |
+| Constitution | 10 | 0 | 0 |
 | Intelligence | 16 | 3 | 5 |
-| Wisdom | 12 | 1 | - |
-| Charisma | 12 | 1 | - |
+| Wisdom | 12 | 1 | 1 |
+| Charisma | 12 | 1 | 1 |
 
 ### Actions
  --- 

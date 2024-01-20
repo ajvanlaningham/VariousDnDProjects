@@ -25,9 +25,9 @@ at will: alter self, detect thoughts, hold person, plane shift, spare the dying
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 21 | 5 | - |
+| Strength | 21 | 5 | 5 |
 | Dexterity | 16 | 3 | 8 |
 | Constitution | 23 | 6 | 11 |
 | Intelligence | 17 | 3 | 8 |

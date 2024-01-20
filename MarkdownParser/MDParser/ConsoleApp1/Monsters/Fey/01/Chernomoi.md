@@ -21,14 +21,14 @@ at will: detect magic, invisibility, mage hand, mending, message, prestidigitati
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 9 | 0 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 18 | 4 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 11 | 0 | - |
-| Charisma | 16 | 3 | - |
+| Strength | 9 | 0 | 0 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 11 | 0 | 0 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

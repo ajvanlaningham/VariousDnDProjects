@@ -29,14 +29,14 @@ cantrips (at will): light, mage hand, minor illusion, poison spray, resistance
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 9 | 0 | - |
-| Dexterity | 16 | 3 | - |
-| Constitution | 12 | 1 | - |
-| Intelligence | 16 | 3 | - |
-| Wisdom | 12 | 1 | - |
-| Charisma | 10 | 0 | - |
+| Strength | 9 | 0 | 0 |
+| Dexterity | 16 | 3 | 3 |
+| Constitution | 12 | 1 | 1 |
+| Intelligence | 16 | 3 | 3 |
+| Wisdom | 12 | 1 | 1 |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

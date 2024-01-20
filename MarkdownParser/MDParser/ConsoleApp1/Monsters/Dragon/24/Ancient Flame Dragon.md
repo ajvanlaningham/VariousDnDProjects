@@ -37,13 +37,13 @@ if the dragon dies, the arguments and misunderstandings disappear immediately an
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 23 | 6 | - |
+| Strength | 23 | 6 | 6 |
 | Dexterity | 14 | 2 | 9 |
 | Constitution | 27 | 8 | 15 |
 | Intelligence | 19 | 4 | 10 |
-| Wisdom | 16 | 3 | - |
+| Wisdom | 16 | 3 | 3 |
 | Charisma | 22 | 6 | 13 |
 
 ### Actions

@@ -39,12 +39,12 @@ if the dragon dies, conditions of the sea surrounding the lair return to normal 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 29 | 9 | - |
+| Strength | 29 | 9 | 9 |
 | Dexterity | 10 | 0 | 7 |
 | Constitution | 27 | 8 | 15 |
-| Intelligence | 19 | 4 | - |
+| Intelligence | 19 | 4 | 4 |
 | Wisdom | 17 | 3 | 10 |
 | Charisma | 21 | 5 | 12 |
 

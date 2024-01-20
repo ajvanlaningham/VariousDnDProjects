@@ -27,14 +27,14 @@ at will: dancing lights, detect magic, invisibility
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 9 | 0 | - |
+| Strength | 9 | 0 | 0 |
 | Dexterity | 21 | 5 | 8 |
-| Constitution | 14 | 2 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 11 | 0 | - |
-| Charisma | 16 | 3 | - |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 11 | 0 | 0 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

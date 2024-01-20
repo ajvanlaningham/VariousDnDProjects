@@ -31,12 +31,12 @@ summon Devil (1/Day): The crystalline devil has a 25 percent chance of summoning
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 12 | 1 | - |
-| Constitution | 18 | 4 | - |
-| Intelligence | 14 | 2 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 12 | 1 | 1 |
+| Constitution | 18 | 4 | 4 |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 13 | 1 | 4 |
 | Charisma | 15 | 2 | 4 |
 

@@ -26,12 +26,12 @@ At will: detect evil and good, light, protection from evil and good
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 22 | 6 | - |
-| Dexterity | 17 | 3 | - |
+| Strength | 22 | 6 | 6 |
+| Dexterity | 17 | 3 | 3 |
 | Constitution | 24 | 7 | 12 |
-| Intelligence | 14 | 2 | - |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 18 | 4 | 9 |
 | Charisma | 21 | 5 | 10 |
 

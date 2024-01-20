@@ -25,13 +25,13 @@ at will: disguise self, knock, minor illusion, misty step, pass without trace, p
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 16 | 3 | 7 |
 | Constitution | 18 | 4 | 8 |
-| Intelligence | 19 | 4 | - |
-| Wisdom | 21 | 5 | - |
+| Intelligence | 19 | 4 | 4 |
+| Wisdom | 21 | 5 | 5 |
 | Charisma | 17 | 3 | 7 |
 
 ### Actions

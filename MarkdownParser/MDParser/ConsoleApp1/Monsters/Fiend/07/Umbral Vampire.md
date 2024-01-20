@@ -29,13 +29,13 @@ at will: mirror image, plane shift (plane of shadows only)
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 1 | -4 | - |
-| Dexterity | 18 | 4 | - |
+| Strength | 1 | -4 | -4 |
+| Dexterity | 18 | 4 | 4 |
 | Constitution | 15 | 2 | 7 |
-| Intelligence | 14 | 2 | - |
-| Wisdom | 14 | 2 | - |
+| Intelligence | 14 | 2 | 2 |
+| Wisdom | 14 | 2 | 2 |
 | Charisma | 19 | 4 | 7 |
 
 ### Actions

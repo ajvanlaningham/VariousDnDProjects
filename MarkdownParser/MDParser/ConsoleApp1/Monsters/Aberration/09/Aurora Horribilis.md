@@ -21,12 +21,12 @@ This trait is disrupted while the aurora is incapacitated or has a speed of 0.
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 8 | -1 | - |
-| Dexterity | 20 | 5 | - |
-| Constitution | 17 | 3 | - |
-| Intelligence | 7 | -1 | - |
+| Strength | 8 | -1 | -1 |
+| Dexterity | 20 | 5 | 5 |
+| Constitution | 17 | 3 | 3 |
+| Intelligence | 7 | -1 | -1 |
 | Wisdom | 14 | 2 | 5 |
 | Charisma | 21 | 5 | 8 |
 

@@ -37,12 +37,12 @@ if the tosculi hive-queen dies, the buzzing disappears immediately, and the beas
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 17 | 3 | - |
+| Strength | 17 | 3 | 3 |
 | Dexterity | 24 | 7 | 12 |
 | Constitution | 20 | 5 | 10 |
-| Intelligence | 16 | 3 | - |
+| Intelligence | 16 | 3 | 3 |
 | Wisdom | 16 | 3 | 8 |
 | Charisma | 18 | 4 | 9 |
 

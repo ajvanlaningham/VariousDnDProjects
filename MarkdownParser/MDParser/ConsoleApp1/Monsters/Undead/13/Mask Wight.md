@@ -25,7 +25,7 @@ at will: alter self
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 22 | 6 | 11 |
 | Dexterity | 18 | 4 | 9 |

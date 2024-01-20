@@ -25,13 +25,13 @@ at will: protection from energy, ray of frost
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 24 | 7 | 11 |
-| Dexterity | 12 | 1 | - |
+| Dexterity | 12 | 1 | 1 |
 | Constitution | 22 | 6 | 10 |
 | Intelligence | 17 | 3 | 7 |
-| Wisdom | 15 | 2 | - |
+| Wisdom | 15 | 2 | 2 |
 | Charisma | 18 | 4 | 8 |
 
 ### Actions

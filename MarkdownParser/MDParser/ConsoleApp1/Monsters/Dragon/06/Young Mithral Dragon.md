@@ -21,12 +21,12 @@ at will: tongues
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 13 | 1 | - |
+| Strength | 13 | 1 | 1 |
 | Dexterity | 22 | 6 | 9 |
 | Constitution | 13 | 1 | 4 |
-| Intelligence | 14 | 2 | - |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 15 | 2 | 5 |
 | Charisma | 14 | 2 | 5 |
 

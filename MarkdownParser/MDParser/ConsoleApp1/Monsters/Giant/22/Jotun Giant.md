@@ -31,12 +31,12 @@ at will: earthquake, shapechange, speak with animals
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 30 | 10 | - |
-| Dexterity | 8 | -1 | - |
+| Strength | 30 | 10 | 10 |
+| Dexterity | 8 | -1 | -1 |
 | Constitution | 26 | 8 | 14 |
-| Intelligence | 18 | 4 | - |
+| Intelligence | 18 | 4 | 4 |
 | Wisdom | 20 | 5 | 11 |
 | Charisma | 14 | 2 | 8 |
 

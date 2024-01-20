@@ -33,12 +33,12 @@ at will: sacred flame, shocking grasp
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 14 | 2 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 16 | 3 | 5 |
-| Intelligence | 12 | 1 | - |
+| Intelligence | 12 | 1 | 1 |
 | Wisdom | 12 | 1 | 3 |
 | Charisma | 15 | 2 | 4 |
 

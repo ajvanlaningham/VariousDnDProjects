@@ -25,14 +25,14 @@ at will: animal friendship, pass without trace, speak with animals
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 12 | 1 | - |
-| Constitution | 14 | 2 | - |
-| Intelligence | 14 | 2 | - |
-| Wisdom | 15 | 2 | - |
-| Charisma | 16 | 3 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 12 | 1 | 1 |
+| Constitution | 14 | 2 | 2 |
+| Intelligence | 14 | 2 | 2 |
+| Wisdom | 15 | 2 | 2 |
+| Charisma | 16 | 3 | 3 |
 
 ### Actions
  --- 

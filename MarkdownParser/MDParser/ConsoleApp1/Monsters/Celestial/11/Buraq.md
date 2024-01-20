@@ -29,12 +29,12 @@ at will: comprehend languages, detect evil and good, holy aura, pass without tra
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
-| Dexterity | 18 | 4 | - |
+| Strength | 15 | 2 | 2 |
+| Dexterity | 18 | 4 | 4 |
 | Constitution | 20 | 5 | 9 |
-| Intelligence | 18 | 4 | - |
+| Intelligence | 18 | 4 | 4 |
 | Wisdom | 18 | 4 | 8 |
 | Charisma | 20 | 5 | 9 |
 

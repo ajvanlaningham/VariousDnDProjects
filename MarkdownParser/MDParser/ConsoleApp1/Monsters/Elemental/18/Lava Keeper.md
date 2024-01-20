@@ -22,14 +22,14 @@ At will: move earth, stone shape
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 24 | 7 | - |
-| Dexterity | 10 | 0 | - |
+| Strength | 24 | 7 | 7 |
+| Dexterity | 10 | 0 | 0 |
 | Constitution | 21 | 5 | 11 |
-| Intelligence | 10 | 0 | - |
+| Intelligence | 10 | 0 | 0 |
 | Wisdom | 18 | 4 | 10 |
-| Charisma | 12 | 1 | - |
+| Charisma | 12 | 1 | 1 |
 
 ### Actions
  --- 

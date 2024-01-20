@@ -27,13 +27,13 @@ at will: blur, magic circle, teleport
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 24 | 7 | 11 |
 | Dexterity | 20 | 5 | 9 |
 | Constitution | 26 | 8 | 12 |
 | Intelligence | 18 | 4 | 8 |
-| Wisdom | 20 | 5 | - |
+| Wisdom | 20 | 5 | 5 |
 | Charisma | 20 | 5 | 9 |
 
 ### Actions

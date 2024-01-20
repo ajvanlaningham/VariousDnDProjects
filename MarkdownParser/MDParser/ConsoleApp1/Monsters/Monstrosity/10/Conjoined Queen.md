@@ -29,14 +29,14 @@ Cantrips (at will): acid splash, mage hand, prestidigitation, ray of frost
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
+| Strength | 18 | 4 | 4 |
 | Dexterity | 16 | 3 | 7 |
-| Constitution | 21 | 5 | - |
-| Intelligence | 13 | 1 | - |
+| Constitution | 21 | 5 | 5 |
+| Intelligence | 13 | 1 | 1 |
 | Wisdom | 14 | 2 | 6 |
-| Charisma | 18 | 4 | - |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

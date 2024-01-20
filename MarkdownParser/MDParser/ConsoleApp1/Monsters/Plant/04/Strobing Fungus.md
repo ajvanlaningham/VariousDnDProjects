@@ -21,14 +21,14 @@ While emitting light, the strobing fungus can’t attack. It can stop emitting l
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 11 | 0 | - |
-| Constitution | 19 | 4 | - |
-| Intelligence | 5 | -2 | - |
-| Wisdom | 13 | 1 | - |
-| Charisma | 15 | 2 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 11 | 0 | 0 |
+| Constitution | 19 | 4 | 4 |
+| Intelligence | 5 | -2 | -2 |
+| Wisdom | 13 | 1 | 1 |
+| Charisma | 15 | 2 | 2 |
 
 ### Actions
  --- 

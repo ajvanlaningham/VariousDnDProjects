@@ -31,12 +31,12 @@ at will: detect thoughts, major image, suggestion
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
 | Strength | 17 | 3 | 6 |
-| Dexterity | 15 | 2 | - |
+| Dexterity | 15 | 2 | 2 |
 | Constitution | 17 | 3 | 6 |
-| Intelligence | 15 | 2 | - |
+| Intelligence | 15 | 2 | 2 |
 | Wisdom | 18 | 4 | 7 |
 | Charisma | 17 | 3 | 6 |
 

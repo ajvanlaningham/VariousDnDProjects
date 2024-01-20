@@ -27,12 +27,12 @@ at will: magic missile
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 19 | 4 | - |
+| Strength | 19 | 4 | 4 |
 | Dexterity | 19 | 4 | 7 |
 | Constitution | 16 | 3 | 6 |
-| Intelligence | 14 | 2 | - |
+| Intelligence | 14 | 2 | 2 |
 | Wisdom | 13 | 1 | 4 |
 | Charisma | 14 | 2 | 5 |
 

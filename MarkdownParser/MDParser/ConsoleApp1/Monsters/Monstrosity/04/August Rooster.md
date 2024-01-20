@@ -26,14 +26,14 @@ At will: dancing lights, mage hand, message, vicious mockery
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 10 | 0 | - |
-| Dexterity | 17 | 3 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 8 | -1 | - |
-| Wisdom | 7 | -1 | - |
-| Charisma | 18 | 4 | - |
+| Strength | 10 | 0 | 0 |
+| Dexterity | 17 | 3 | 3 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 8 | -1 | -1 |
+| Wisdom | 7 | -1 | -1 |
+| Charisma | 18 | 4 | 4 |
 
 ### Actions
  --- 

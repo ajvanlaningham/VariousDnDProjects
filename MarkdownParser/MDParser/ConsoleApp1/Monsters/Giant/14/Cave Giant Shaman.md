@@ -27,14 +27,14 @@ Cantrips (at will): acid splash, mage hand, mending, prestidigitation, shocking 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 27 | 8 | - |
+| Strength | 27 | 8 | 8 |
 | Dexterity | 10 | 0 | 5 |
 | Constitution | 20 | 5 | 10 |
-| Intelligence | 10 | 0 | - |
+| Intelligence | 10 | 0 | 0 |
 | Wisdom | 15 | 2 | 7 |
-| Charisma | 21 | 5 | - |
+| Charisma | 21 | 5 | 5 |
 
 ### Actions
  --- 

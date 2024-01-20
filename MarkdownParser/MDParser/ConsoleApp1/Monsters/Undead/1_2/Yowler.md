@@ -19,14 +19,14 @@ The changes wrought by this illusion fail to hold up to physical inspection. For
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 3 | -3 | - |
-| Dexterity | 15 | 2 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 3 | -3 | - |
-| Wisdom | 10 | 0 | - |
-| Charisma | 5 | -2 | - |
+| Strength | 3 | -3 | -3 |
+| Dexterity | 15 | 2 | 2 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 3 | -3 | -3 |
+| Wisdom | 10 | 0 | 0 |
+| Charisma | 5 | -2 | -2 |
 
 ### Actions
  --- 

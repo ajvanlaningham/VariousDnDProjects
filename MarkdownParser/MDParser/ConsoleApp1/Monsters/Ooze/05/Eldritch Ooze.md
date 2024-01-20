@@ -23,14 +23,14 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 16 | 3 | - |
-| Dexterity | 6 | -2 | - |
-| Constitution | 16 | 3 | - |
-| Intelligence | 1 | -4 | - |
-| Wisdom | 6 | -2 | - |
-| Charisma | 8 | -1 | - |
+| Strength | 16 | 3 | 3 |
+| Dexterity | 6 | -2 | -2 |
+| Constitution | 16 | 3 | 3 |
+| Intelligence | 1 | -4 | -4 |
+| Wisdom | 6 | -2 | -2 |
+| Charisma | 8 | -1 | -1 |
 
 ### Actions
  --- 

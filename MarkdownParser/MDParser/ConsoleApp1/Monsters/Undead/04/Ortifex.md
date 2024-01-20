@@ -23,14 +23,14 @@ Unless surprised, a creature can plug its ears to avoid the saving throw at the 
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 17 | 3 | - |
-| Dexterity | 10 | 0 | - |
+| Strength | 17 | 3 | 3 |
+| Dexterity | 10 | 0 | 0 |
 | Constitution | 15 | 2 | 4 |
-| Intelligence | 8 | -1 | - |
+| Intelligence | 8 | -1 | -1 |
 | Wisdom | 13 | 1 | 3 |
-| Charisma | 12 | 1 | - |
+| Charisma | 12 | 1 | 1 |
 
 ### Actions
  --- 

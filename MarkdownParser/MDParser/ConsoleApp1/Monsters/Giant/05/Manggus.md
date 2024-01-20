@@ -25,14 +25,14 @@ At the end of its turn, the manggus regrows two heads for each of its heads that
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 14 | 2 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 14 | 2 | 2 |
 | Constitution | 16 | 3 | 6 |
-| Intelligence | 8 | -1 | - |
-| Wisdom | 7 | -1 | - |
-| Charisma | 9 | 0 | - |
+| Intelligence | 8 | -1 | -1 |
+| Wisdom | 7 | -1 | -1 |
+| Charisma | 9 | 0 | 0 |
 
 ### Actions
  --- 

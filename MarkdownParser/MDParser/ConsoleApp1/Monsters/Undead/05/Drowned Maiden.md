@@ -21,13 +21,13 @@ at will: disguise self, silence
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 15 | 2 | - |
-| Dexterity | 16 | 3 | - |
+| Strength | 15 | 2 | 2 |
+| Dexterity | 16 | 3 | 3 |
 | Constitution | 10 | 0 | 6 |
-| Intelligence | 10 | 0 | - |
-| Wisdom | 12 | 1 | - |
+| Intelligence | 10 | 0 | 0 |
+| Wisdom | 12 | 1 | 1 |
 | Charisma | 18 | 4 | 7 |
 
 ### Actions

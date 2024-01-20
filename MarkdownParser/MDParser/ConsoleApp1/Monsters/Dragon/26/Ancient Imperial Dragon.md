@@ -26,12 +26,12 @@ At will: control water, fog cloud, gust of wind, stinking cloud
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 30 | 10 | - |
+| Strength | 30 | 10 | 10 |
 | Dexterity | 12 | 1 | 9 |
 | Constitution | 29 | 9 | 17 |
-| Intelligence | 20 | 5 | - |
+| Intelligence | 20 | 5 | 5 |
 | Wisdom | 18 | 4 | 12 |
 | Charisma | 20 | 5 | 13 |
 

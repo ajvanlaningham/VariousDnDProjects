@@ -25,14 +25,14 @@ at will: invisibility (self only), mage hand, mending, minor illusion, prestidig
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 13 | 1 | - |
-| Dexterity | 18 | 4 | - |
-| Constitution | 15 | 2 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 16 | 3 | - |
-| Charisma | 21 | 5 | - |
+| Strength | 13 | 1 | 1 |
+| Dexterity | 18 | 4 | 4 |
+| Constitution | 15 | 2 | 2 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 16 | 3 | 3 |
+| Charisma | 21 | 5 | 5 |
 
 ### Actions
  --- 

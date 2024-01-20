@@ -24,14 +24,14 @@ Cantrips (at will): chill touch, minor illusion, ray of frost, shocking grasp
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 18 | 4 | - |
-| Dexterity | 10 | 0 | - |
-| Constitution | 19 | 4 | - |
-| Intelligence | 16 | 3 | - |
-| Wisdom | 15 | 2 | - |
-| Charisma | 9 | 0 | - |
+| Strength | 18 | 4 | 4 |
+| Dexterity | 10 | 0 | 0 |
+| Constitution | 19 | 4 | 4 |
+| Intelligence | 16 | 3 | 3 |
+| Wisdom | 15 | 2 | 2 |
+| Charisma | 9 | 0 | 0 |
 
 ### Actions
  --- 

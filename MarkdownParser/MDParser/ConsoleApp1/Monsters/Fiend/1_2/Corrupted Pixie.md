@@ -21,14 +21,14 @@ At will: vicious mockery
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 2 | -4 | - |
-| Dexterity | 20 | 5 | - |
-| Constitution | 10 | 0 | - |
-| Intelligence | 12 | 1 | - |
-| Wisdom | 14 | 2 | - |
-| Charisma | 15 | 2 | - |
+| Strength | 2 | -4 | -4 |
+| Dexterity | 20 | 5 | 5 |
+| Constitution | 10 | 0 | 0 |
+| Intelligence | 12 | 1 | 1 |
+| Wisdom | 14 | 2 | 2 |
+| Charisma | 15 | 2 | 2 |
 
 ### Actions
  --- 

@@ -35,9 +35,9 @@ at will: guidance, light, purify food and drink, spare the dying
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 18 | 4 | 7 |
 | Constitution | 14 | 2 | 5 |
 | Intelligence | 14 | 2 | 5 |

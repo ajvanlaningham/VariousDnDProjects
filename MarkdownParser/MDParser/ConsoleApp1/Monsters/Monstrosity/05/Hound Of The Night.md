@@ -21,14 +21,14 @@ at will: dimension door
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 20 | 5 | - |
+| Strength | 20 | 5 | 5 |
 | Dexterity | 16 | 3 | 6 |
 | Constitution | 14 | 2 | 5 |
-| Intelligence | 9 | 0 | - |
+| Intelligence | 9 | 0 | 0 |
 | Wisdom | 14 | 2 | 5 |
-| Charisma | 10 | 0 | - |
+| Charisma | 10 | 0 | 0 |
 
 ### Actions
  --- 

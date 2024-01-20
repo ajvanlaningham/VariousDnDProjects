@@ -26,12 +26,12 @@ At will: fog cloud
 
 
 
-| Stats | Modifier | Stat | Save
+| Stat | Score | Modifier | Save |
 | ---- | ---- | ---- | ---- |
-| Strength | 27 | 8 | - |
+| Strength | 27 | 8 | 8 |
 | Dexterity | 12 | 1 | 7 |
 | Constitution | 25 | 7 | 13 |
-| Intelligence | 18 | 4 | - |
+| Intelligence | 18 | 4 | 4 |
 | Wisdom | 16 | 3 | 9 |
 | Charisma | 18 | 4 | 10 |
 
