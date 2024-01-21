@@ -10,6 +10,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicItemParser", "MagicItemParser\MagicItemParser.csproj", "{EFF04380-CC43-401F-8BF7-4991F550AD04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{748F293C-5AB7-4B12-8392-DAA06B952B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,14 @@ Global
 		{1837B4DC-E915-40B0-A002-3A201A3B9F39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1837B4DC-E915-40B0-A002-3A201A3B9F39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1837B4DC-E915-40B0-A002-3A201A3B9F39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF04380-CC43-401F-8BF7-4991F550AD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF04380-CC43-401F-8BF7-4991F550AD04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF04380-CC43-401F-8BF7-4991F550AD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF04380-CC43-401F-8BF7-4991F550AD04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{748F293C-5AB7-4B12-8392-DAA06B952B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{748F293C-5AB7-4B12-8392-DAA06B952B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{748F293C-5AB7-4B12-8392-DAA06B952B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{748F293C-5AB7-4B12-8392-DAA06B952B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
